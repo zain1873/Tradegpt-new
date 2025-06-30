@@ -1,0 +1,11 @@
+{
+  "user": {
+    "username": "ZainSaleem",
+    "avatar": "/placeholder.svg?height=32&width=32",
+    "weather": {
+      "temperature": 30,
+      "condition": "Smoke",
+      "time": "10:05 AM"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "news": {
+    "QQQ": [
+      {
+        "id": 1,
+        "headline": "QQQ ETF sees strong inflows amid tech rally",
+        "summary": "The Invesco QQQ Trust ETF experienced significant inflows as technology stocks continue their upward momentum.",
+        "timestamp": "2024-01-15T10:30:00Z",
+        "source": "MarketWatch"
+      },
+      {
+        "id": 2,
+        "headline": "Tech sector rotation drives QQQ performance",
+        "summary": "Analysts note sector rotation into technology names is boosting QQQ's relative performance.",
+        "timestamp": "2024-01-15T08:15:00Z",
+        "source": "Bloomberg"
+      }
+    ],
+    "SPY": [
+      {
+        "id": 3,
+        "headline": "S&P 500 ETF reaches new highs on earnings optimism",
+        "summary": "SPY continues its climb as investors remain optimistic about upcoming earnings season.",
+        "timestamp": "2024-01-15T11:00:00Z",
+        "source": "CNBC"
+      }
+    ],
+    "AAPL": [
+      {
+        "id": 4,
+        "headline": "Apple reports strong iPhone sales in China",
+        "summary": "Apple's latest quarterly results show resilient demand in key international markets.",
+        "timestamp": "2024-01-15T09:45:00Z",
+        "source": "Reuters"
+      }
+    ]
+  }
+}

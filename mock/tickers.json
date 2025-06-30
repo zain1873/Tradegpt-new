@@ -1,0 +1,52 @@
+{
+  "tickers": [
+    {
+      "symbol": "MSTR",
+      "name": "MicroStrategy Inc",
+      "price": 284.5,
+      "change": 12.45,
+      "changePercent": 4.57,
+      "sparkline": [280, 275, 285, 290, 284.5]
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle Internet Financial",
+      "price": 45.23,
+      "change": -2.15,
+      "changePercent": -4.54,
+      "sparkline": [47, 46, 45, 44, 45.23]
+    },
+    {
+      "symbol": "CODI",
+      "name": "Compass Diversified Holdings",
+      "price": 28.9,
+      "change": 0.85,
+      "changePercent": 3.03,
+      "sparkline": [28, 27.5, 28.5, 29, 28.9]
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc",
+      "price": 195.89,
+      "change": 3.21,
+      "changePercent": 1.67,
+      "sparkline": [192, 194, 196, 195, 195.89]
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "price": 248.42,
+      "change": -8.33,
+      "changePercent": -3.24,
+      "sparkline": [256, 252, 250, 245, 248.42]
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 875.3,
+      "change": 15.67,
+      "changePercent": 1.82,
+      "sparkline": [860, 865, 870, 880, 875.3]
+    }
+  ]
+}

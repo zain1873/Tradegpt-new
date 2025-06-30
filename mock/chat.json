@@ -1,0 +1,44 @@
+{
+  "sessions": [
+    {
+      "id": "session-1",
+      "title": "QQQ Analysis Discussion",
+      "timestamp": "2024-01-14T15:30:00Z",
+      "messages": [
+        {
+          "id": "msg-1",
+          "type": "user",
+          "content": "Give me a shorting entry for QQQ",
+          "timestamp": "2024-01-14T15:30:00Z"
+        },
+        {
+          "id": "msg-2",
+          "type": "ai",
+          "content": "Based on current technical analysis, here's my QQQ shorting recommendation:",
+          "analysis": {
+            "summary": "QQQ is showing signs of overextension near resistance levels",
+            "technicalAnalysis": "RSI at 78 indicates overbought conditions. Price approaching key resistance at $385.",
+            "entryLevel": "$384.50",
+            "exitLevel": "$375.00",
+            "stopLoss": "$388.00"
+          },
+          "timestamp": "2024-01-14T15:31:00Z",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "session-2",
+      "title": "SPY Entry Analysis",
+      "timestamp": "2024-01-13T10:15:00Z",
+      "messages": [
+        {
+          "id": "msg-3",
+          "type": "user",
+          "content": "Tell me the buying entry level for SPY",
+          "timestamp": "2024-01-13T10:15:00Z"
+        }
+      ]
+    }
+  ]
+}
