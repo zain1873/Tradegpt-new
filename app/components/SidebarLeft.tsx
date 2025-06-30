@@ -68,11 +68,11 @@ export default function SidebarLeft({ currentSession, onSessionSelect, onPromptS
       {/* Header */}
   <div className="p-4 border-b border-gray-700">
   <div className="flex items-center gap-2 mb-4">
-    <div className="w-8 h-8 flex items-center justify-center">
+    <div className="w-10 h-12 flex items-center justify-center">
       <img 
        src="/transparent-logo.png" 
         alt="TradeGPT Logo" 
-        className="w-16 h-12"
+        className="w-12 h-12"
       />
     </div>
     <span className="text-xl font-bold">TradeGPT</span>

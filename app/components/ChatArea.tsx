@@ -218,8 +218,12 @@ export default function ChatArea({ currentSession, pendingAction, onActionProces
       <div className="p-4 lg:p-6 border-b border-gray-700">
         {messages.length === 0 ? (
           <div className="text-center">
-            <div className="w-12 h-12 lg:w-16 lg:h-16 bg-gray-800 rounded-full flex items-center justify-center mx-auto mb-4">
-              <Clock className="w-6 h-6 lg:w-8 lg:h-8 text-gray-400" />
+            <div className="w-12 h-12 lg:w-16 lg:h-20  rounded-full flex items-center justify-center mx-auto mb-4">
+               <img 
+                src="/transparent-logo.png"
+                  alt="TradeGPT Logo" 
+                  className="w-20 h-15"
+                />
             </div>
             <h1 className="text-xl lg:text-2xl font-semibold mb-2">How can I help you today?</h1>
             <p className="text-gray-400 text-sm mb-6">
